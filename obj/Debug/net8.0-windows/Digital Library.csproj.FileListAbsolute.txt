@@ -1,0 +1,62 @@
+D:\Project\Library Sys\Digital Library\bin\Debug\net8.0-windows\Digital Library.exe
+D:\Project\Library Sys\Digital Library\bin\Debug\net8.0-windows\Digital Library.dll
+D:\Project\Library Sys\Digital Library\bin\Debug\net8.0-windows\Azure.Core.dll
+D:\Project\Library Sys\Digital Library\bin\Debug\net8.0-windows\Azure.Identity.dll
+D:\Project\Library Sys\Digital Library\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Project\Library Sys\Digital Library\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+D:\Project\Library Sys\Digital Library\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+D:\Project\Library Sys\Digital Library\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Project\Library Sys\Digital Library\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\Project\Library Sys\Digital Library\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Project\Library Sys\Digital Library\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\Project\Library Sys\Digital Library\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\Project\Library Sys\Digital Library\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Project\Library Sys\Digital Library\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\Project\Library Sys\Digital Library\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+D:\Project\Library Sys\Digital Library\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\Project\Library Sys\Digital Library\bin\Debug\net8.0-windows\System.Memory.Data.dll
+D:\Project\Library Sys\Digital Library\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+D:\Project\Library Sys\Digital Library\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Project\Library Sys\Digital Library\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Project\Library Sys\Digital Library\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Project\Library Sys\Digital Library\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Project\Library Sys\Digital Library\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Project\Library Sys\Digital Library\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Project\Library Sys\Digital Library\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Project\Library Sys\Digital Library\obj\Debug\net8.0-windows\Digital Library.csproj.AssemblyReference.cache
+D:\Project\Library Sys\Digital Library\obj\Debug\net8.0-windows\Digital_Library.AddBooks.resources
+D:\Project\Library Sys\Digital Library\obj\Debug\net8.0-windows\Digital_Library.AddStudent.resources
+D:\Project\Library Sys\Digital Library\obj\Debug\net8.0-windows\Digital_Library.Dashboard.resources
+D:\Project\Library Sys\Digital Library\obj\Debug\net8.0-windows\Digital_Library.Detail.resources
+D:\Project\Library Sys\Digital Library\obj\Debug\net8.0-windows\Digital_Library.issueBook.resources
+D:\Project\Library Sys\Digital Library\obj\Debug\net8.0-windows\Digital_Library.Login.resources
+D:\Project\Library Sys\Digital Library\obj\Debug\net8.0-windows\Digital_Library.Properties.Resources.resources
+D:\Project\Library Sys\Digital Library\obj\Debug\net8.0-windows\Digital_Library.Return_Book.resources
+D:\Project\Library Sys\Digital Library\obj\Debug\net8.0-windows\Digital_Library.ViewStudent.resources
+D:\Project\Library Sys\Digital Library\obj\Debug\net8.0-windows\Digital_Library.ViewBook.resources
+D:\Project\Library Sys\Digital Library\obj\Debug\net8.0-windows\Digital Library.csproj.GenerateResource.cache
+D:\Project\Library Sys\Digital Library\obj\Debug\net8.0-windows\Digital Library.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\Library Sys\Digital Library\obj\Debug\net8.0-windows\Digital Library.AssemblyInfoInputs.cache
+D:\Project\Library Sys\Digital Library\obj\Debug\net8.0-windows\Digital Library.AssemblyInfo.cs
+D:\Project\Library Sys\Digital Library\obj\Debug\net8.0-windows\Digital Library.csproj.CoreCompileInputs.cache
+D:\Project\Library Sys\Digital Library\obj\Debug\net8.0-windows\Digital Library.csproj.CopyComplete
+D:\Project\Library Sys\Digital Library\obj\Debug\net8.0-windows\Digital Library.dll
+D:\Project\Library Sys\Digital Library\obj\Debug\net8.0-windows\refint\Digital Library.dll
+D:\Project\Library Sys\Digital Library\obj\Debug\net8.0-windows\Digital Library.pdb
+D:\Project\Library Sys\Digital Library\bin\Debug\net8.0-windows\Digital Library.deps.json
+D:\Project\Library Sys\Digital Library\bin\Debug\net8.0-windows\Digital Library.runtimeconfig.json
+D:\Project\Library Sys\Digital Library\bin\Debug\net8.0-windows\Digital Library.pdb
+D:\Project\Library Sys\Digital Library\obj\Debug\net8.0-windows\Digital Library.genruntimeconfig.cache
+D:\Project\Library Sys\Digital Library\obj\Debug\net8.0-windows\ref\Digital Library.dll
+D:\Project\Library Sys\Digital Library\obj\Debug\net8.0-windows\Digital_Library.feedback.resources
+D:\Project\Library Sys\Digital Library\obj\Debug\net8.0-windows\Digital_Library.Help.resources
+D:\Project\Library Sys\Digital Library\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+D:\Project\Library Sys\Digital Library\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+D:\Project\Library Sys\Digital Library\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+D:\Project\Library Sys\Digital Library\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+D:\Project\Library Sys\Digital Library\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+D:\Project\Library Sys\Digital Library\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+D:\Project\Library Sys\Digital Library\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+D:\Project\Library Sys\Digital Library\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+D:\Project\Library Sys\Digital Library\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+D:\Project\Library Sys\Digital Library\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
